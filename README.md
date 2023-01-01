@@ -1,14 +1,28 @@
 # MAK-PRO
 
 THIS IS PAID TOOLS. 
-BUT FREE FOR 21-23 DEC🥱
+
+
+#Installations 
+
+
+pkg update
+
+pkg upgrade
+
+pkg install base64
+
+pkg install marshal
+
+pkg install zlib
+
+pkg install python
 
 git clone https://github.com/MAK-GANG/MAK-PRO.git
 
-
+ls
 
 cd MAK-PRO
-
 
 python MAK-PRO.py
 
